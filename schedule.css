@@ -1,0 +1,20 @@
+/*.scheduletable {
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+    margin-top: 2.5%;    
+}*/
+
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+
+.imgleft {
+    float: left;
+}
+
+.flxbx {
+    display: flex;
+    align-items: center;
+    margin-top: 2%;
+}
